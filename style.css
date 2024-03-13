@@ -1,0 +1,175 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: linear-gradient(45deg, #0a0a0a, #3a4452);
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #171b52;
+    color: white;
+    height: 2.3em;
+    font-size: 2.5em;
+
+}
+
+.main {
+    height: 81vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2em;
+
+
+
+}
+
+.card {
+    border: 2px solid black;
+    width: 20vw;
+    height: 65vh;
+    padding: 23px;
+    background-color: rgb(40, 42, 51);
+
+}
+
+.screen {
+    /* height: 10vh; */
+    border: 2px solid rgb(0, 0, 0);
+    padding: 20px;
+    width: 17vw;
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 10px;
+    font-size: 35px;
+    font-weight: 600;
+    background-color: green;
+
+}
+
+.first-row {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 25px;
+   
+}
+
+.row {
+    height: 42px;
+    width: 70px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    font-size: 25px;
+    background-color: grey;
+    color: white;
+
+}
+
+.row:hover
+{
+    background-color: rgb(88, 88, 88);
+    cursor: pointer;
+}
+
+.second-row {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.row2 {
+    height: 42px;
+    width: 70px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    font-size: 25px;
+    background-color: grey;
+    color: white;
+}
+
+.third-row {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.row3 {
+    height: 42px;
+    width: 70px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    font-size: 25px;
+    background-color: grey;
+    color: white;
+}
+
+.fourth-row {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.row4 {
+    height: 42px;
+    width: 70px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    font-size: 25px;
+    background-color: grey;
+    color: white;
+}
+
+.fifth-row {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.row5 {
+    height: 42px;
+    width: 70px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    font-size: 25px;
+    background-color: grey;
+    color: white;
+}
+
+.red {
+    background-color: rgb(219, 44, 44);
+    color: white;
+}
+
+.red:hover {
+    background-color: rgb(247, 89, 89);
+}
